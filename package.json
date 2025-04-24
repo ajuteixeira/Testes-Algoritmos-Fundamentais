@@ -1,0 +1,12 @@
+{
+  "name": "testes-algoritmos-fundamentais",
+  "version": "1.0.0",
+  "description": "Algoritmos fundamentais em JavaScript com testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
